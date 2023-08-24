@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483135269546",
+    "firebase_url": "https://hotelmanagament-c135c-default-rtdb.firebaseio.com",
+    "project_id": "hotelmanagament-c135c",
+    "storage_bucket": "hotelmanagament-c135c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483135269546:android:3280ce73b0dcab626dbed3",
+        "android_client_info": {
+          "package_name": "com.example.gestaodomiciliar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483135269546-h1mdf6tbs4v19kuku0sb3lth6l0gi7ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_ZQ-chH241N1kkBc5YJuEj9TwnqRhKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483135269546-h1mdf6tbs4v19kuku0sb3lth6l0gi7ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
